@@ -1,4 +1,4 @@
-# Face Recognition System using OpenCV
+# Face Detection System using OpenCV
 
 This Face Recognition System, developed using Python and OpenCV library, is designed to identify different individuals with an impressive accuracy rate of 99%. The system also includes a timestamp feature that marks the time of identification.
 
